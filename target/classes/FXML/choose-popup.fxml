@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox id="popup-window" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="428.0" prefWidth="746.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button id="sunday-box" mnemonicParsing="false" prefHeight="140.0" prefWidth="140.0" styleClass="sunday-box" stylesheets="@../Styles/choose-popup.css" text="Sunday" />
+   </children>
+</VBox>

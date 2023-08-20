@@ -1,0 +1,67 @@
+.homepage-background {
+    -fx-background-image: url('../Images/Home-bg.jpg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100% 100%;
+}
+
+.title-container {
+    -fx-alignment: center;
+}
+
+.title-container-text {
+    -fx-font-family: "Alte Haas Grotesk";
+    -fx-font-weight: 700;
+    -fx-fill: #FFFFFF;
+    -fx-font-size: 72px;
+}
+
+.buttonContainer {
+    -fx-spacing: 50;
+    -fx-alignment: center;
+}
+
+.iWantToChooseButton, .chooseForMeButton {
+    -fx-text-fill: #FFFFFF;
+
+    -fx-background-color: #FF843E;
+    -fx-background-radius: 5px;
+    -fx-pref-height: 28;
+    -fx-pref-width: 112;
+
+}
+
+
+
+
+
+.popup {
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 20px;
+}
+
+.daysoftheweek {
+    -fx-background-color: #FFF8F2;
+    -fx-background-radius: 16px;
+    -fx-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+.header-space {
+    -fx-background-image: url('../Images/choose-banner.jpg');
+    -fx-background-size: 850px;
+    }
+.nocook-header {
+    -fx-font-size: 24px;
+    -fx-text-fill: #FFFFFF;
+    -fx-alignment: center;
+}
+.date-section {
+    -fx-background-color: #FF843E;
+    -fx-background-radius: 16 16 0 0;
+}
+.date {
+    -fx-text-fill: #FFFFFF;
+    -fx-background-color: transparent;
+    -fx-alignment: center;
+}
+.day {
+    -fx-font-weight: 700;
+}
